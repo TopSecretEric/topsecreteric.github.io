@@ -302,4 +302,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-paginate_path: "/_posts/page:num/"
+paginate_path: "/blog/page:num/"
