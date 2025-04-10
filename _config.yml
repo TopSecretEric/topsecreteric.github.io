@@ -21,6 +21,7 @@ author: Top Secret Rehearsal Studios, LLC
 
 navbar-links:
   About Me: "aboutme"
+  Rehearsal Studios: "rooms"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
