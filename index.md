@@ -9,4 +9,4 @@ Top Secret Rehearsal Studios, LLC, (Top Secret Denton) is a music rehearsal stud
 If you would like to keep up with our progress or would be interested in our rehearsal spaces as they become available, please [contact us.](https://topsecretdenton.com/contact/)
 
 Rehearsal Studios | Instrument Repair
---- | ---
+Wow, such rehearsal studios! | I'm fixin' guitars and basses.
