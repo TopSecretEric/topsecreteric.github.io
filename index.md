@@ -10,7 +10,7 @@ Top Secret Rehearsal Studios, LLC, (Top Secret Denton) is a music rehearsal stud
 
 ---
 
-## Now with Instruemnt Repair
+## Now with Instrument Repair
 Coming Soon, like next week...
 
 {: .box-note}
