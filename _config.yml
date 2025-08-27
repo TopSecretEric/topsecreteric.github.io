@@ -20,8 +20,8 @@ author: Top Secret Rehearsal Studios, LLC
 ###############################################
 
 navbar-links:
-  Rehearsal Studios: "rooms"
-  #Instrument Repair: "repair"
+  Rehearsal Studioz: "rooms"
+  # Instrument Repair: "repair"
   Contact:
     - Contact: "contact"
     - About Us: "aboutus"
@@ -56,7 +56,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  instagram: deanat78
-  telephone: +19409232176
+#  telephone: +19409232176
 #  twitch: yourname
 #  mastodon: instance.url/@username
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
