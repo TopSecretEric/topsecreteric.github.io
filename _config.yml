@@ -21,6 +21,7 @@ author: Top Secret Rehearsal Studios, LLC
 
 navbar-links:
   Rehearsal Studios: "rooms"
+  Instrument Repair: "repair"
   Contact:
     - Contact: "contact"
     - About Us: "aboutus"
@@ -55,7 +56,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  instagram: deanat78
-#  telephone: +14159998888
+  telephone: +19409232176
 #  twitch: yourname
 #  mastodon: instance.url/@username
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
@@ -104,7 +105,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "denton,rehearsal,space,guitar,bass.repair,instrument,music,luthier,practice"
 
 ######################################
 # --- Colours / background image --- #
