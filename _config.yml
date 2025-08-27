@@ -20,8 +20,8 @@ author: Top Secret Rehearsal Studios, LLC
 ###############################################
 
 navbar-links:
-  Rehearsal Studioz: "rooms"
-  # Instrument Repair: "repair"
+  Rehearsal Studios: "rooms"
+  Instrument Repair: "repair"
   Contact:
     - Contact: "contact"
     - About Us: "aboutus"
