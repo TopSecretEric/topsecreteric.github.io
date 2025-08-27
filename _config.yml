@@ -56,7 +56,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  instagram: deanat78
-telephone: +19409232176
+#  telephone: +19409232176
 #  twitch: yourname
 #  mastodon: instance.url/@username
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
@@ -76,7 +76,6 @@ share-links-active:
   linkedin: false
   vk: false
   reddit: false
-  telephone: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -95,7 +94,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
@@ -106,7 +105,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-# keywords: "denton,rehearsal,space,guitar,bass.repair,instrument,music,luthier,practice"
+keywords: "denton,rehearsal,space,guitar,bass.repair,instrument,music,luthier,practice"
 
 ######################################
 # --- Colours / background image --- #
