@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guitar Repair
-subtitle: Your Stringed Instrument, but Better.
+subtitle: Your Guitar, but Better.
 ---
 
 Coming very soon…
