@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to      Top Secret Denton
+title: Welcome to\      Top Secret Denton
 subtitle: Rehearsal Studios and Guitar Repair
 ---
 
-Upcoming shows...
+Upcoming shows...!
