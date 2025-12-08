@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lobby Display
-subtitle: This is a Test
+title: Welcome to Top Secret Denton
+subtitle: Rehearsal Studios and Guitar Repair
 ---
 
-Why are you here?
+Upcoming shows...
