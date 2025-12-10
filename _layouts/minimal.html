@@ -16,13 +16,11 @@ common-ext-js:
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
 
+  {% include head.html %}
+
   <body>
 
-    {% include header.html type="page" %}
-
-<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
-  <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+    <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %} main-content">
       {% if page.before-content %}
         <div class="before-content">
           {% for file in page.before-content %}
@@ -40,11 +38,7 @@ common-ext-js:
           {% endfor %}
         </div>
       {% endif %}
-
-      {% include comments.html %}
-    </div>
-  </div>
-</main>
+    </main>
 
     {% include footer-minimal.html %}
 
