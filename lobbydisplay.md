@@ -14,7 +14,7 @@ text-align: center;
 <br />
 <br />
 <br />
-# Top Secret Denton
+<h1 style="font-size: 5vw;">Top Secret Denton</h1>
 ## Rehearsal Studios and Guitar Repair
 
 Thank you!  I really appreciate your work on this...
