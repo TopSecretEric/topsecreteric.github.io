@@ -13,4 +13,4 @@ text-align: center;
 }
 </style>
 
-This is only a test...
+Thanks guy!
