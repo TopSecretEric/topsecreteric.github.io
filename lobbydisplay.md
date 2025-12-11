@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Top Secret Denton
-subtitle: Rehearsal Spaces and Guitar Repair
+layout: minimal
 ---
 
 <style>
@@ -14,5 +12,3 @@ text-align: center;
 </style>
 
 Thank you!  I really appreciate your work on this...
-
-dude
