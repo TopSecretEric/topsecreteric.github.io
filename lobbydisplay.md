@@ -36,4 +36,4 @@ text-align: center;
 
 **Scan the QR code to add your show!**
 
-![add your show](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![add your show](/assets/img/lobbyqr.png){: .mx-auto.d-block :}
