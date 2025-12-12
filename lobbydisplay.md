@@ -26,15 +26,16 @@ Welcome to
 
 ---
 
+<figure>
 <img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:25%; height:auto;" align="right">
+    <figcaption>Scan the QR code to add your show.</figcaption>
+</figure>
 
 **Upcoming Shows**
 
 | Who | When | Where |
 | :------ |:--- | :--- |
 | We will | put your | show here! |
-
-**Scan the QR code to add your show!**
 
 ---
 
