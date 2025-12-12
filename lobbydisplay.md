@@ -33,3 +33,7 @@ text-align: center;
 | Who | When | Where |
 | :------ |:--- | :--- |
 | We will | put your | show here! |
+
+**Scan the QR code to add your show!**
+
+![add your show](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
