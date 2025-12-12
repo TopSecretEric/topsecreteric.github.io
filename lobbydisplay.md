@@ -30,7 +30,7 @@ text-align: center;
 
 **Upcoming Shows**
 
-<table class="center">
+<table class="center" style="width:50%">
   <tr>
     <th>Who</th>
     <th>When</th>
