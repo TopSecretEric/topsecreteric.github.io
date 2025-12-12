@@ -16,6 +16,7 @@ text-align: center;
 </style>
 
 <br />
+Welcome to
 <h1 style="font-size: 4vw;"><strong>Top Secret Denton</strong></h1>
 ## **Rehearsal Studios and Guitar Repair**
 ---
