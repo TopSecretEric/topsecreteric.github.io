@@ -22,7 +22,9 @@ text-align: center;
 
 *Welcome to the rad new Top Secret Lobby Display!*
 
-### Upcoming Shows
+---
+
+**Upcoming Shows**
 
 | Who | Where | When |
 | :------ |:--- | :--- |
