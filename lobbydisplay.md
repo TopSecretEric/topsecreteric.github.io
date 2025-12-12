@@ -26,8 +26,7 @@ text-align: center;
 
 **Upcoming Shows**
 
-<center>
-<table>
+<table class="center">
   <tr>
     <th>Who</th>
     <th>When</th>
@@ -39,4 +38,3 @@ text-align: center;
     <td>Here</td>
   </tr>
 </table>
-</center>
