@@ -26,7 +26,7 @@ Welcome to
 
 ---
 
-<figure>
+<figure align="right">
 <figcaption>Scan the QR code to add your show.</figcaption>
 <img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:25%; height:auto;" align="right">
 </figure>
