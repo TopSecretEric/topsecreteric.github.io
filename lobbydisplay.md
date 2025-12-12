@@ -34,7 +34,7 @@ text-align: center;
 
 **Scan the QR code to add your show!**
 
-<img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:25%; height:auto;">
+<img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:25%; height:auto;" align="left">
 
 {: .box-error}
 **Parking:** Please do not park in front of the black portion of the building (Dent Connect).
