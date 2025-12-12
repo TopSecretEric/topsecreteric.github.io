@@ -26,6 +26,15 @@ text-align: center;
 
 **Upcoming Shows**
 
-| Who | Where | When |
-| :------ |:--- | :--- |
-| Your | Show | Here |
+<table>
+  <tr>
+    <th>Who</th>
+    <th>When</th>
+    <th>Where</th>
+  </tr>
+  <tr>
+    <td>Your</td>
+    <td>Show</td>
+    <td>Here</td>
+  </tr>
+</table>
