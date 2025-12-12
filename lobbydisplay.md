@@ -18,6 +18,13 @@ text-align: center;
 ## **Rehearsal Studios and Guitar Repair**
 ---
 
+|  | {: .box-success} |  |
+| :------ |:--- | :--- |
+| Five | *Welcome to the rad new Top Secret Lobby Display!* | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
 {: .box-success}
 
 *Welcome to the rad new Top Secret Lobby Display!*
