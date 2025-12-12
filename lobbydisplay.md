@@ -36,6 +36,8 @@ text-align: center;
 
 **Scan the QR code to add your show!**
 
+---
+
 {: .box-error}
 **Parking:** Please do not park in front of the black portion of the building (Dent Connect).
 Towing is enforced.
