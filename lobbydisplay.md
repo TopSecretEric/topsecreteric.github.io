@@ -34,4 +34,4 @@ text-align: center;
 
 **Scan the QR code to add your show!**
 
-![add your show](/assets/img/lobbyqr.png){: .mx-auto.d-block :}
+<img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:50%; height:auto;">
