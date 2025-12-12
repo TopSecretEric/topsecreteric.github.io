@@ -30,15 +30,6 @@ text-align: center;
 
 **Upcoming Shows**
 
-<table class="center" style="width:75%">
-  <tr>
-    <th>Who</th>
-    <th>When</th>
-    <th>Where</th>
-  </tr>
-  <tr>
-    <td>Awesome Band!</td>
-    <td>Friday Night!</td>
-    <td>Cool Place!</td>
-  </tr>
-</table>
+| Who | When | Where |
+| :------ |:--- | :--- |
+| We will | put your | show here! |
