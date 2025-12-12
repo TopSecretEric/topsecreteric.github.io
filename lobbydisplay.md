@@ -1,16 +1,6 @@
 ---
 layout: minimal
 ---
-
-<style>
-.footer-min {
-display: none;
-}
-.main-content {
-text-align: center;
-}
-</style>
-
 <br />
 <br />
 <br />
