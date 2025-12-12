@@ -34,4 +34,4 @@ text-align: center;
 
 **Scan the QR code to add your show!**
 
-<img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:50%; height:auto;">
+<img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:25%; height:auto;">
