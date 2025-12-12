@@ -9,6 +9,10 @@ display: none;
 .main-content {
 text-align: center;
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 
 <br />
