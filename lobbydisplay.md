@@ -26,10 +26,6 @@ text-align: center;
 
 **Upcoming Shows**
 
-<center>
-
 | Who | Where | When |
 | :------ |:--- | :--- |
 | Your | Show | Here |
-
-</center>
