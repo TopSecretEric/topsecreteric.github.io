@@ -41,4 +41,4 @@ Welcome to
 {: .box-error}
 **Parking:** Please do not park in front of the black portion of the building (Dent Connect).
 Towing is enforced.
-Additional parking in the gravel lot south of the building, as well on Locust St at Family Doller.
+Additional parking in the gravel lot south of the building, as well on Locust St at Family Dollar.
