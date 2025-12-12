@@ -39,6 +39,8 @@ Welcome to
 
 ---
 
+For any maintenance requests or other needs, please text Eric at 940-923-2176.
+
 {: .box-error}
 **Parking:** Please do not park in front of the black portion of the building (Dent Connect).
 Towing is enforced.
