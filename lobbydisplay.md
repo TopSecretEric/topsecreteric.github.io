@@ -26,6 +26,8 @@ text-align: center;
 
 ---
 
+<img src="/assets/img/lobbyqr.png" alt="Alt Text" style="width:25%; height:auto;" align="right">
+
 **Upcoming Shows**
 
 | Who | When | Where |
