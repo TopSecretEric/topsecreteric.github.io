@@ -39,6 +39,6 @@ text-align: center;
   <tr>
     <td>Your</td>
     <td>Show</td>
-    <td>Here</td>
+    <td>Heres</td>
   </tr>
 </table>
