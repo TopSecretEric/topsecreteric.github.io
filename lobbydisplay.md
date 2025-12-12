@@ -20,4 +20,4 @@ text-align: center;
 
 {: .box-success}
 
-Welcome to the rad new Top Secret Lobby Display!
+*Welcome to the rad new Top Secret Lobby Display!*
