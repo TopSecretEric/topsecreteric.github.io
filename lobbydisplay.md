@@ -30,15 +30,15 @@ text-align: center;
 
 **Upcoming Shows**
 
-<table class="center" style="width:50%">
+<table class="center" style="width:75%">
   <tr>
     <th>Who</th>
     <th>When</th>
     <th>Where</th>
   </tr>
   <tr>
-    <td>Your</td>
-    <td>Show</td>
-    <td>Heres</td>
+    <td>Awesome Band!</td>
+    <td>Friday Night!</td>
+    <td>Cool Place!</td>
   </tr>
 </table>
