@@ -38,9 +38,7 @@ Welcome to
 | We will | put your | show here! |
 
 ---
-<br>
-<br>
-<br>
+
 For any maintenance requests or other needs, please text Eric at 940-923-2176.
 
 {: .box-error}
